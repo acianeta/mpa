@@ -15,13 +15,13 @@ body {
 }
 
 a {
-  color: #18d26e;
+  color: #ffcc25;
   transition: 0.5s;
   text-decoration: none;
 }
 
 a:hover, a:active, a:focus {
-  color: #18d36e;
+  color: #ffcc25;
   outline: none;
   text-decoration: none;
 }
@@ -233,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #18d26e;
+  color: #ffcc25;
 }
 
 .navbar .dropdown:hover > ul {
