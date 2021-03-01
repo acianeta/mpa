@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #ffcc25;
+  color: #c4ab5a;
   transition: 0.5s;
   text-decoration: none;
 }
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffcc25;
+  background: #c4ab5a;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #ffcc25;
+  color: #c4ab5a;
 }
 
 .navbar .dropdown ul {
@@ -573,7 +573,7 @@ section {
   font-size: 24px;
   color: #fff;
   margin-bottom: 0;
-  font-weight: 400;
+  font-weight: 50;
 }
 
 .breadcrumbs ol {
@@ -709,12 +709,12 @@ section {
 #about .about-col i {
   font-size: 28px;
   line-height: 0;
-  color: #ffcc25;
+  color: #c4ab5a;
   transition: 0.3s;
 }
 
 #about .about-col:hover .icon {
-  background-color: #ffcc25;
+  background-color: #c4ab5a;
 }
 
 #about .about-col:hover i {
@@ -736,7 +736,7 @@ section {
 }
 
 #about .about-col h2 a:hover {
-  color: #ffcc25;
+  color: #c4ab5a;
 }
 
 #about .about-col p {
@@ -1081,7 +1081,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffcc25;
+  background-color: #c4ab5a;
 }
 
 .portfolio-details .portfolio-info {
@@ -1091,8 +1091,9 @@ section {
 }
 
 .portfolio-details .portfolio-info h3 {
+  color: #c4ab5a;
   font-size: 22px;
-  font-weight: 700;
+  font-weight: 50;
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
@@ -1101,7 +1102,8 @@ section {
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
-  font-size: 15px;
+  font-size: 14px;
+  font-weight: 60;
 }
 
 .portfolio-details .portfolio-info ul li + li {
@@ -1340,11 +1342,11 @@ section {
 }
 
 #contact .contact-info a {
-  color: #000;
+  color: #fff;
 }
 
 #contact .contact-info a:hover {
-  color: #18d26e;
+  color: #ffcc25;
 }
 
 #contact .contact-address, #contact .contact-phone, #contact .contact-email {
@@ -1436,7 +1438,7 @@ section {
 }
 
 #contact .php-email-form button[type="submit"]:hover {
-  background: #ffcc25;
+  background: #c4ab5a;
 }
 
 @-webkit-keyframes animate-loading {
