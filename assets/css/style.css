@@ -542,7 +542,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #ffcc25;
+  background: #c4ab5a;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -1325,7 +1325,7 @@ section {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #ffcc25;
+  color: #c4ab5a;
 }
 
 #contact .contact-info address, #contact .contact-info p {
