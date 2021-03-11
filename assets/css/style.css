@@ -21,7 +21,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  color: #ffcc25;
+  color: #fff;
   outline: none;
   text-decoration: none;
 }
@@ -550,7 +550,7 @@ section {
 .section-header p {
   text-align: center;
   padding-bottom: 30px;
-  color: #333;
+  color: #f5f5f5;
 }
 
 /* Section with background
@@ -1428,7 +1428,7 @@ section {
   background-color: #18d26e;
 }
 
-#contact .php-email-form button[type="submit"] {
+#contact .php-email-form button[type="button"] {
   background: #000;
   border: 0;
   padding: 10px 30px;
@@ -1437,7 +1437,7 @@ section {
   cursor: pointer;
 }
 
-#contact .php-email-form button[type="submit"]:hover {
+#contact .php-email-form button[type="button"]:hover {
   background: #c4ab5a;
 }
 
